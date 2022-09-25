@@ -7,7 +7,7 @@
  </div>
   
 <h1 align="center">
-   an ambitious student.
+   kyuree shim.  an ambitious student.
 </h1>
 
 <div align="center">
